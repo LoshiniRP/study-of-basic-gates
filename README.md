@@ -81,6 +81,7 @@ endmodule
  **Developed by:** RegisterNumber: 25002119
  
 **LOGIC SYMBOL AND TRUTH TABLE:**
+
 ![alt text](Pic.jpg)
 
 **RTL REALSIATION OUTPUT:** 
